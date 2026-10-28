@@ -1,0 +1,4 @@
+# Copy to .dev.vars for local development. Never commit actual secrets.
+BOOTSTRAP_SECRET=replace-with-a-long-random-setup-secret
+RESEND_API_KEY=
+RESEND_FROM=Fulhadhoo Beach Cottage <bookings@example.com>
